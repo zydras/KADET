@@ -8,6 +8,8 @@
 
 This is the codebase for the KADET fork of the /TG/station SpaceStation 13 codebase, also including files from the Nova codebase. While this codebase is public, the official server for this codebase is private.
 
+The Korps worldbuilding and canon belongs to Kraken/KorpsPropaganda.
+
 ## PLOT
 
 The *original* Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones.
