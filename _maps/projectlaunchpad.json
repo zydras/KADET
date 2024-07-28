@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"map_name": "Project Launchpad",
+	"map_path": "map_files/KADET",
+	"map_file": "ProjectLaunchpad.dmm",
+	"shuttles": {
+		"cargo": "cargo_nova",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_meta",
+		"emergency": "emergency_meta"
+	},
+	"job_changes": {
+		"Cook": {
+			"additional_cqc_areas": ["/area/station/service/bar", "/area/station/commons/lounge"]
+		}
+	}
+}
