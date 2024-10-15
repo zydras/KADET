@@ -10,8 +10,8 @@ This is the codebase for the KADET fork of the /TG/station SpaceStation 13 codeb
 
 The Korps worldbuilding and canon belongs to Kraken/KorpsPropaganda.
 
-## PLOT
-
+# PLOT
+### INTRO
 The *original* Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones.
 
 **KADET** adapted this idea into a simpler less chaotic roleplay-based game built on the lore backdrop of the Korps (pronounced 'Core') and its worldbuilding.
@@ -20,6 +20,13 @@ The plot of this specific codebase is that, under the guise of two companies, **
 
 Through these shell companies, the Korps is able to maintain a full space program without raising a significant amount of suspicion. This has been followed with the proper establishment of a moonbase on the backside of the moon in order to form the backbone of **Project Launchpad**, which will allow for further exploration into the solar system. In the meantime, the well-hidden moonbase allows the Korps to proceed unmonitored.
 
+### CURRENT DAY
+
+The Korps moonbase, known as KADET 13 by its crew - a number earned as symbolism for the 13th manned flight that delivered the initial astronauts on the moon - sends feedback from their scientific researches into the potential searches of lunar caverns and returns with the discovery of a new element: **Morphiae**.
+
+Initial digs reveal the material to date from roughly the 3000 BC era, albeit hard to precisely set a date due to the lack of sedimentation found on earth. The crystalline material holds incredible power and shares a variety of characteristics to many well-known elements, typically compared to a highly combustible plutonium submatter. 
+
+Today's shift: Get that Morphiae up, keep the moonbase active, and be very normal about women.
 
 ## LICENSE
 
