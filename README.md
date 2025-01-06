@@ -1,53 +1,27 @@
-### [![Goonstation](.github/assets/goonstation.png)](#) Welcome to the main repository for the Goonstation branch of [Space Station 13](https://spacestation13.com/).
+[![evil](https://img.shields.io/badge/%E2%88%8D%E2%A7%BD%E2%A7%BC%E2%88%8A-black?style=flat)](#) This is the codebase for the KADET fork of the Goonstation SpaceStation 13 codebase.
 
-[![contains technical debt](https://shields.io/badge/contains-technical%20debt-blue?style=for-the-badge)](#)[![made with crayons](https://shields.io/badge/made%20with%20crayons-green?style=for-the-badge)](#)[![made in byond](https://github.com/goonstation/goonstation/assets/4741640/041eb7c6-4bfa-443a-a615-5e1e0bfa3c11)](#)
+[![evil](https://img.shields.io/badge/%E2%88%8D%E2%A7%BD%E2%A7%BC%E2%88%8A-black?style=flat)](#) While this codebase is public, the official server for this codebase is private.
 
-# SETUP
+[![evil](https://img.shields.io/badge/%E2%88%8D%E2%A7%BD%E2%A7%BC%E2%88%8A-black?style=flat)](#) The Korps worldbuilding and canon belongs to Kraken/KorpsPropaganda.
 
-[<img src=".github/assets/setup.png" alt="Setup" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fdev)
+[![contains technical debt](https://shields.io/badge/contains-technical%20debt-blue?style=for-the-badge)](#)
+[![comically queer](https://img.shields.io/badge/comically_queer-ff50c5?style=for-the-badge)](#)
+[![made in byond](https://github.com/goonstation/goonstation/assets/4741640/041eb7c6-4bfa-443a-a615-5e1e0bfa3c11)](#)
 
-Want to get the code up and running to test changes or play around? This guide is the place to go. 
-<br>***Be sure to follow it exactly!*** If you need help, visit the #imcoder channel on our Discord.
 
-## COMMUNITY
+## PLOT INTRO 
+The original Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. KADET adapted this idea into a simpler less chaotic roleplay-based game built on the lore backdrop of the Korps (pronounced 'Core') and its worldbuilding. The plot of this specific codebase is that, under the guise of two companies, KADET is the Korps' space operations wing: CosmiC (pronounced 'cosmic sea') handles traditional rocketry and satellite production, where Starfall Aerospace handles crew capability, and is responsible for the Korps' single-stage-to-orbit spaceplanes. Through these shell companies, the Korps is able to maintain a full space program without raising a significant amount of suspicion. This has been followed with the proper establishment of a moonbase on the backside of the moon in order to form the backbone of Project Launchpad, which will allow for further exploration into the solar system. In the meantime, the well-hidden moonbase allows the Korps to proceed unmonitored.
 
-[<img src=".github/assets/discord.png" alt="Discord" width="150" align="left">](https://discord.gg/zd8t6pY)
-Discord is the place to talk to fellow players, admins, and devs in realtime. There's plenty of friendly people there, capable of answering most of your questions.
+### CURRENT DAY
+The Korps moonbase, known as KADET 13 by its crew - a number earned as symbolism for the 13th manned flight that delivered the initial astronauts on the moon - sends feedback from their scientific researches into the potential searches of lunar caverns and returns with the discovery of a new element: Morphia. Initial digs reveal the material to date from roughly the 3000 BC era, albeit hard to precisely set a date due to the lack of sedimentation found on earth. The crystalline material holds incredible power and shares a variety of characteristics to many well-known elements, typically compared to a highly combustible plutonium submatter.
 
-[<img src=".github/assets/forums.png" alt="Forums" width="150" align="left">](https://forum.ss13.co)
-The forums are where we get most of our player feedback/suggestions and talk about things in a more longform format. This is also the place to appeal any bans or give admin feedback.
-
-[<img src=".github/assets/wiki.png" alt="Goonhub" width="150" align="left">](https://wiki.ss13.co)
-Our wiki is the place to go for any information you seek on the various constructions, items, game modes, and really just anything in-game. There's also guides for the various jobs you can play!
-
-[<img src=".github/assets/goonhub.png" alt="Goonhub" width="150" align="left">](https://goonhub.com)
-Goonhub is the premier place for locating statistics, data about rounds (like funny last words), detailed game maps, and all other links pertaining to Goonstation!
-
-## CONTRIBUTING
-
-[<img src=".github/assets/readme.png" alt="Contributing Guidelines" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fcontribute)
-Before opening a PR to this codebase, please read our contributor guidelines. It details the requirements of our PR format, and explains our changelog methodology.
-
-[<img src=".github/assets/docs.png" alt="Code Documentation" width="150" align="left">](https://docs.goonhub.com/)
-For our auto-generated code documentation, visit our code docs! There's some good guides for portions of our codebase, and you can familiarize yourself with our various helpers.
-
-[<img src=".github/assets/code.png" alt="Code Documentation" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fcode)
-To contribute code to the game, please read our code guide. It details specific DM syntax we encourage, useful things, and some performance-oriented technical discussion.
-
-[<img src=".github/assets/sprites.png" alt="Spriting Guidelines" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fsprites)
-To contribute sprites to the game, please follow our spriting guidelines! It details the various things we try to keep consistent in our sprites, such as perspective and outlining.
-
-[<img src=".github/assets/audio.png" alt="Audio Guidelines" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Faudio)
-To contribute audio to the game, please follow our audio guidelines! It details what types of sounds we want to include, things to keep in mind, and the sound cache.
-
-[<img src=".github/assets/maps.png" alt="Mapping Guidelines" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fmaps)
-To contribute maps to the game, please follow our mapping guidelines! It details the **required** pieces for a map submission. There are also guides on how to map included.
+Today's shift: Get that Morphia up, keep the moonbase active, and be very normal about women.
 
 ## LICENSE
 [![license-badge](https://shields.io/badge/license-CC--BY--NC--SA-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-All Goonstation contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). See LICENSE for more details.
+All Goonstation and KADET contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). See LICENSE for more details.
 
 Contributions made under the `tgui` folder are licensed under [MIT](https://choosealicense.com/licenses/mit/) unless otherwise specified.
 
-**Important:** This means that code from Goonstation cannot be ported to codebases such as /tg/station. If you wish to port a specific feature, you must get the developer(s) to sublicense it to you under a license like AGPLv3. This also applies in the opposite direction for features ported from other codebases.
+**Important:** This means that code from Goonstation / KADET cannot be ported to codebases such as /tg/station. If you wish to port a specific feature, you must get the developer(s) to sublicense it to you under a license like AGPLv3. This also applies in the opposite direction for features ported from other codebases.
